@@ -1,4 +1,2 @@
-# SuperSheepy.github.io
-a website with cookies and notes by SuperSheepy
-
-this awebsite made for fun and cookies that is it no data collecting.
+# TheSheepster.github.io
+A website to showcas my projects here on https://github.com/TheSheepster
