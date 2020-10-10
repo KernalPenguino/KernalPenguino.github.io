@@ -1,2 +1,2 @@
 # TheSheepster.github.io
-A website to showcase my projects here on https://github.com/TheSheepster
+https://TheSheepster.github.io is A website to showcase my projects here on https://github.com/TheSheepster
